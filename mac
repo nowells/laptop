@@ -26,6 +26,18 @@ echo "Installing ack..."
 echo "Installing MacVim..."
   brew install macvim
 
+echo "Installing ctags..."
+  brew install ctags
+
+echo "Installing tig..."
+  brew install tig
+
+echo "Installing tmux..."
+  brew install tmux
+
+echo "Installing wget..."
+  brew install wget
+
 echo "Installing zsh..."
   brew install zsh
 
